@@ -4,29 +4,28 @@ from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 from PIL import Image
 
-# Parámetro: número de componentes principales (autovectores) a conservar
-num_componentes = 25  # Puedes cambiar este número
+num_componentes = 25  #autovectores
 
-# 1. Cargar base de datos de rostros
+#1
 data = fetch_olivetti_faces(shuffle=True, random_state=42)
-X = data.data  # Cada imagen está vectorizada (4096 dimensiones)
-images = data.images  # Imágenes originales en 64x64
+X = data.data
+images = data.images  #Imagenes en 64x64
 
-# 2. Seleccionar imagen a reconstruir (por ejemplo, la primera)
+#2
 imagen_original = X[0]
 imagen_reshaped = images[0]
 
-# 3. Aplicar PCA para compresión y reconstrucción
+#3
 pca = PCA(n_components=num_componentes)
-X_transformado = pca.fit_transform(X)  # Reducir dimensionalidad
-imagen_reconstruida = pca.inverse_transform(X_transformado[0])  # Reconstrucción
+X_transformado = pca.fit_transform(X)  #Reducir dimensionalidad
+imagen_reconstruida = pca.inverse_transform(X_transformado[0])  #Reconstruccion
 
-# 4. Guardar la imagen reconstruida como PNG
+#4
 imagen_reconstruida_2D = imagen_reconstruida.reshape(64, 64)
 img = Image.fromarray((imagen_reconstruida_2D * 255).astype(np.uint8))
 img.save(f"rostro_reconstruido_{num_componentes}_componentes.png")
 
-# 5. Mostrar original vs reconstruida
+#5
 plt.figure(figsize=(8,4))
 plt.subplot(1, 2, 1)
 plt.title("Imagen original")
