@@ -1,0 +1,80 @@
+8
+
+Estudiante: Ana Juarez,
+Documento: 8714553,
+Estudiante en condicion de discapacidad: Si,
+Estudiante PEAMA que inicia movilidad en el periodo academico: Si,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: Si,
+Avance de carrera: 96%,
+Diligencio la encuesta docente: No,
+PAPPI: 3.91
+
+Profesor: Oscar Rodriguez,
+Documento: 64015215,
+En condicion de discapacidad: No,
+Ingreso a trabajar en el periodo academico: Si,
+Dicta otras asignaturas: Si,
+Tiempo en la universidad: 24 meses,
+Resultados encuesta docente: 87% de aceptacion,
+Materias dictadas: Programacion orientada a objetos y Bases de datos
+
+Profesor: Oscar Rodriguez,
+Documento: 64015215,
+En condicion de discapacidad: Si,
+Ingreso a trabajar en el periodo academico: Si,
+Extranjero : No,
+Traslado en el periodo academico: No,
+Dicta otras asignaturas: Si,
+Tiempo en la universidad: 24 meses,
+Resultados encuesta docente: 87,
+Materias dictadas: Economia y licenciatura
+
+Estudiante: Brenda Valenzuela,
+Documento: 6046227,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: Si,
+Estudiante de doble titulacion : Si. Periodo academico de inicio : 31/5/2022,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: Si,
+Avance de carrera: 77%,
+Diligencio la encuesta docente: No,
+PAPPI: 4.45
+
+Estudiante: Eduardo Bermudez,
+Documento: 1677181,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: Si,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: No,
+Avance de carrera: 87%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.52
+
+Estudiante: Carla Olivares,
+Documento: 6347434,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: Si,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: Si,
+Estudiante de reingreso: Si,
+Avance de carrera: 92%,
+Diligencio la encuesta docente: Si,
+PAPPI: 3.26
+
+Administrativo: Paco Mendez,
+Documento: 6978266,
+Tiempo del contrato: 16 semanas
+
+Estudiante: Daniela Serrano,
+Documento: 9013880,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : Si. Periodo academico de inicio : 31/5/2022,
+Estudiante a quien le fue aprobado traslado en el periodo academico: Si,
+Estudiante de reingreso: No,
+Avance de carrera: 79%,
+Diligencio la encuesta docente: No,
+PAPPI: 3.73

@@ -1,0 +1,9 @@
+AB
+2.4,8.9
+5.5,6.6
+
+CD
+2.5,7.3
+6.8,10.4
+
+Los segmentos cortan en un unico punto

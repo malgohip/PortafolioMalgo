@@ -1,0 +1,1 @@
+El número de plantas en el rango [2.0,5.0] es: 2

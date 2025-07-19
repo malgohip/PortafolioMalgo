@@ -1,0 +1,29 @@
+13
+Carnival - Troffle
+Honepy - Troffle
+Strobry - Cowsome
+Pikpak - Sugger
+Mocca - Honepy
+Mikliday - Cowsome
+Mikliday - Pikpak
+Maycorn - Troffle
+Sugger - Carnival
+Cowsome - Mocca
+Sugger - Mocca
+Troffle - Pikpak
+Mocca - Strobry
+14
+Sugger - Troffle
+Cowsome - Maycorn
+Pikpak - Mocca
+Mikliday - Sugger
+Strobry - Carnival
+Sugger - Strobry
+Troffle - Mocca
+Mikliday - Mocca
+Strobry - Troffle
+Cowsome - Carnival
+Mikliday - Strobry
+Cowsome - Troffle
+Sugger - Honepy
+Maycorn - Mocca

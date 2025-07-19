@@ -1,0 +1,1 @@
+El promedio  de  las altura de las plantas es: 4.775 y la desviación estándar es: 3.0621683493890406.

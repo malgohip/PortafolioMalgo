@@ -1,0 +1,1 @@
+El promedio  de  las longitudes de los escarabajos rinoceronte es: 30.9 y la desviacion estandar es: 5.6.

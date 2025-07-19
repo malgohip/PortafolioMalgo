@@ -1,0 +1,5 @@
+Los datos de la altura de las plantas del jardín botánico son:
+2.3
+6.5
+8.9
+1.4

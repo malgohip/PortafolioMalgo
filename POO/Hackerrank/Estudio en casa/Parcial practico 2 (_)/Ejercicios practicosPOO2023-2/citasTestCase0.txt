@@ -1,0 +1,67 @@
+6
+
+Estudiante: Ana Torres,
+Documento: 3979009,
+Estudiante en condicion de discapacidad: Si,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: Si,
+Avance de carrera: 89%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.01
+
+Estudiante: Brenda Flores,
+Documento: 5195840,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : Si. Periodo academico de inicio : 25/2/2013,
+Estudiante a quien le fue aprobado traslado en el periodo academico: Si,
+Estudiante de reingreso: No,
+Avance de carrera: 78%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.01
+
+Estudiante: Eduardo Cabrera,
+Documento: 7185855,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: Si,
+Avance de carrera: 89%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.61
+
+Estudiante: Carla Martinez,
+Documento: 1801565,
+Estudiante en condicion de discapacidad: Si,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : Si. Periodo academico de inicio : 25/2/2013,
+Estudiante a quien le fue aprobado traslado en el periodo academico: Si,
+Estudiante de reingreso: No,
+Avance de carrera: 80%,
+Diligencio la encuesta docente: No,
+PAPPI: 4.3
+
+Estudiante: Daniela Galvan,
+Documento: 2036979,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : Si. Periodo academico de inicio : 25/2/2013,
+Estudiante a quien le fue aprobado traslado en el periodo academico: Si,
+Estudiante de reingreso: No,
+Avance de carrera: 84%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.38
+
+Estudiante: Elena Caballero,
+Documento: 1613773,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: Si,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: Si,
+Avance de carrera: 98%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.38

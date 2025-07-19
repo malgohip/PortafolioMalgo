@@ -1,0 +1,32 @@
+1
+Nombre: Sebastian
+Apellido: Ochoa
+Telefono: 3003380663
+Correo electronico: jochoaci@unal.edu.co
+Sexo: M
+Direccion: Dg 61C #22A-14
+
+2
+Nombre: Isabella
+Apellido: Valderrama
+Telefono: 3152067649
+Correo electronico: ivalderramama@unal.edu.co
+Sexo: F
+Direccion: N/a
+
+3
+Nombre: Isabela
+Apellido: Olano
+Telefono: 3118753600
+Correo electronico: N/a
+Sexo: F
+Direccion: N/a
+
+4
+Nombre: Samuel
+Apellido: Amado
+Telefono: 3025838006
+Correo electronico: seamadoj@can.corazonistas.edu.co
+Sexo: M
+Direccion: Cl 75A #61-43
+

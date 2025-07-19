@@ -1,0 +1,133 @@
+12
+
+Estudiante: Karina Escobar,
+Documento: 8923481,
+Estudiante en condicion de discapacidad: Si,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: No,
+Avance de carrera: 79%,
+Diligencio la encuesta docente: No,
+PAPPI: 4.11
+
+Estudiante: Rebeca Gonzalez,
+Documento: 5923535,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: Si,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: No,
+Avance de carrera: 99%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.52
+
+Estudiante: Dulce Leal,
+Documento: 3291894,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : Si. Periodo academico de inicio : 9/9/2020,
+Estudiante a quien le fue aprobado traslado en el periodo academico: Si,
+Estudiante de reingreso: Si,
+Avance de carrera: 89%,
+Diligencio la encuesta docente: No,
+PAPPI: 3.77
+
+Estudiante: Jorge Campos,
+Documento: 2781788,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : Si. Periodo academico de inicio : 9/9/2020,
+Estudiante a quien le fue aprobado traslado en el periodo academico: Si,
+Estudiante de reingreso: Si,
+Avance de carrera: 75%,
+Diligencio la encuesta docente: Si,
+PAPPI: 3.66
+
+Estudiante: Carmen Cisneros,
+Documento: 6287872,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: Si,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: Si,
+Avance de carrera: 90%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.69
+
+Estudiante: Jazmin Nunez,
+Documento: 5897312,
+Estudiante en condicion de discapacidad: Si,
+Estudiante PEAMA que inicia movilidad en el periodo academico: Si,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: No,
+Avance de carrera: 85%,
+Diligencio la encuesta docente: No,
+PAPPI: 4.2
+
+Estudiante: Miguel Tellez,
+Documento: 7975853,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: Si,
+Avance de carrera: 72%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.57
+
+Estudiante: Ignacio Rosales,
+Documento: 6042405,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: Si,
+Estudiante de reingreso: No,
+Avance de carrera: 70%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.8
+
+Estudiante: Bianca Maldonado,
+Documento: 3469407,
+Estudiante en condicion de discapacidad: No,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : Si. Periodo academico de inicio : 9/9/2020,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: Si,
+Avance de carrera: 98%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.0
+
+Estudiante: Susana Dominguez,
+Documento: 5372222,
+Estudiante en condicion de discapacidad: Si,
+Estudiante PEAMA que inicia movilidad en el periodo academico: Si,
+Estudiante de doble titulacion : No,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: Si,
+Avance de carrera: 91%,
+Diligencio la encuesta docente: No,
+PAPPI: 4.83
+
+Estudiante: Gabriela Rodriguez,
+Documento: 4416844,
+Estudiante en condicion de discapacidad: Si,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : Si. Periodo academico de inicio : 9/9/2020,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: Si,
+Avance de carrera: 71%,
+Diligencio la encuesta docente: No,
+PAPPI: 3.04
+
+Estudiante: Yamileth Serna,
+Documento: 6987338,
+Estudiante en condicion de discapacidad: Si,
+Estudiante PEAMA que inicia movilidad en el periodo academico: No,
+Estudiante de doble titulacion : Si. Periodo academico de inicio : 9/9/2020,
+Estudiante a quien le fue aprobado traslado en el periodo academico: No,
+Estudiante de reingreso: Si,
+Avance de carrera: 94%,
+Diligencio la encuesta docente: Si,
+PAPPI: 4.31

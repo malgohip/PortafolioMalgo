@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/public/source/onix_favicon.png" type="image/x-icon">
+    <title>Onix_Project</title>
+    <link rel="stylesheet" href="/public/login/login.css">
+</head>
+
+<body>
+    <section id="logged-out-view">
+        <div id="fullDiv">
+            <div class="container">
+                <div class="wrapper_1">
+                    <!-- Aquí está el div que se comportará como card -->
+                    <div class="blue-square">
+                        <div class="wrapper">
+                            <div class="card-switch">
+                                <label class="switch">
+                                    <input class="toggle" type="checkbox">
+                                    <span class="slider"></span>
+                                    <span class="card-side"></span>
+                                    <div class="flip-card__inner">
+                                        <div class="flip-card__front">
+                                            <div class="title">Iniciar sesión</div>
+                                            <form action="" class="flip-card__form">
+                                                <input type="email" id="signin-email-input" class="flip-card__input" name="email" placeholder="Email" required>
+                                                <input type="password" id="signin-password-input" class="flip-card__input" name="password" placeholder="Contraseña" required>
+                                                <button id="sign-in-btn" class="flip-card__btn">Vamos!</button>
+                                                <button id="sign-in-with-google-btn" class="flip-card__btn">
+                                                    <img src="/public/source/google-logo.png" alt="Google Sign-in" class="google-btn-logo"> Inicia con Google
+                                                </button>
+                                            </form>
+    
+                                        </div>
+                                        <div class="flip-card__back">
+                                            <div class="title">Crear cuenta</div>
+                                            <form action="" class="flip-card__form">
+                                                <input type="email" id="signup-email-input" class="flip-card__input" name="email" placeholder="Email" required>
+                                                <input type="password" id="signup-password-input" class="flip-card__input" name="password" placeholder="Contraseña" required>
+                                                <button id="sign-up-btn" class="flip-card__btn" type="button">Listo!</button>
+                                                <button id="sign-up-with-google-btn" class="flip-card__btn" type="button">
+                                                    <img src="/public/source/google-logo.png" alt="Google Sign-in" class="google-btn-logo"> Registrate con Google
+                                                </button>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="logged-in-view">
+        <div id="fullDiv">
+            <div class="container">
+                <div class="wrapper_1">
+                    <div class="blue-square">
+                        <div class="wrapper">
+                            <div class="flip-card__front">
+                                <h1>Sesión iniciada como: <span id="userName"></span>.</h1>
+                                <h2>Email: <span id="user-email"></span>.</h2>
+                                <img src="" id="userProfilePicture">
+                                <a href="/public/index.html">
+                                    <button id="sign-up-btn" class="flip-card__btn" type="button">Continuar</button>
+                                </a>
+                                <button id="logout-button" class="flip-card__btn">Cerrar Sesión</button>
+                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <script type="module" src="/public/login/login.js" defer></script>
+</body>
+</html>

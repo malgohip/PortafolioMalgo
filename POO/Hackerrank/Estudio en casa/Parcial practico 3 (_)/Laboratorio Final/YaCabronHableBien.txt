@@ -1,0 +1,9 @@
+Vidas: 8 Monedas: 25 Poder: Super Champinon
+
+Vidas: 5 Monedas: 15 Poder: Hoja de Tanooki
+
+Vidas: 4 Monedas: 10 Poder: Estrella de Invencibilidad
+
+Vidas: 9 Monedas: 20 Poder: Estrella de Invencibilidad
+
+Vidas: 1 Monedas: 5 Poder: Hoja de Tanooki

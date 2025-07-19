@@ -1,0 +1,41 @@
+{
+   "estudiantes": [
+      {
+         "Nombre": "Juan Sebasti\u00e1n",
+         "Apellidos": "Ochoa Cicua",
+         "Edad": 17,
+         "Carrera": "Ciencias de la Computaci\u00f3n",
+         "Cursos inscritos": [
+            "Fundamentos de Matem\u00e1ticas",
+            "Introducci\u00f3n a las ciencias de la computaci\u00f3n y la programaci\u00f3n",
+            "C\u00e1lculo diferencial en una variable"
+         ]
+      },
+      {
+         "Nombre": "David Santiago",
+         "Apellidos": "Mu\u00f1oz Trivi\u00f1o",
+         "Edad": 25,
+         "Carrera": "Ciencia Pol\u00edtica",
+         "Cursos inscritos": [
+            "Historia Pol\u00edtica Moderna",
+            "Introducci\u00f3n a la Ciencia Pol\u00edtica",
+            "C\u00e1tedra Eduardo Uma\u00f1a Luna",
+            "Teor\u00eda e Historia Constitucional",
+            "Historia Pol\u00edtica y Socioecon\u00f3mica del siglo XIX"
+         ]
+      },
+      {
+         "Nombre": "Santiago",
+         "Apellidos": "Benjumea",
+         "Edad": 20,
+         "Carrera": "F\u00edsica",
+         "Cursos inscritos": [
+            "Taller de matem\u00e1ticas y ciencias",
+            "Algebra l\u00edneal",
+            "C\u00e1lculo diferencial de una variable",
+            "Fundamentos de f\u00edsica te\u00f3rica",
+            "Fundamentos de f\u00edsica experimental"
+         ]
+      }
+   ]
+}

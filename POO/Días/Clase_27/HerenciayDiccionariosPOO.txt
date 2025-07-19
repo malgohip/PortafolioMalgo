@@ -1,0 +1,7 @@
+3
+Carro manual,EBM209,Juan Manuel
+Carro automatico,GMW208,Xiomara Corredor
+Moto sin clasificacion,ABC12D,Santiago Castro
+2
+GMW208
+ABC12D
