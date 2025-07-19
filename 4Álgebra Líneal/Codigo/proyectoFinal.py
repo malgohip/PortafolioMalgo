@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 
 # Parámetro: número de componentes principales (autovectores) a conservar
-num_componentes = 50  # Puedes cambiar este número
+num_componentes = 25  # Puedes cambiar este número
 
 # 1. Cargar base de datos de rostros
 data = fetch_olivetti_faces(shuffle=True, random_state=42)
@@ -39,3 +39,7 @@ plt.imshow(imagen_reconstruida_2D, cmap='gray')
 plt.axis('off')
 plt.tight_layout()
 plt.show()
+
+
+img_original = Image.fromarray((imagen_reshaped * 255).astype(np.uint8))
+img_original.save("rostro_original.png")
