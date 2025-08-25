@@ -1,4 +1,4 @@
-//Sebastián Ochoa 23/07/2025
+//Sebastián Ochoa 25/08/2025
 
 /*When program deals with numbers which have fraction part we sometimes want to round such values to whole integer. We'll need this for programming some later problems (to make answers simpler, for example), so let us have the following dedicated exercise to learn this trick.
 
@@ -13,6 +13,6 @@ import java.util.*; import java.io.*;
 public class N6Rounding{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in); int n = sc.nextInt();
-        for (int i=0;i<n;i++){float a = sc.nextFloat(), b = sc.nextFloat(), c = a/b; if(c>=0) {if (c%10>=5) System.out.print((int)c+1+" "); else System.out.print((int)c+" ");} else {if (c%10>=5) System.out.print((int)c+" "); else System.out.print((int)c-1+" ");}}
+        for (int i=0;i<n;i++){float a = sc.nextFloat(), b = sc.nextFloat(), c = a/b; if(c>=0){if ((c%1)*10>=5) System.out.print((int)c+1+" "); else System.out.print((int)c+" ");} else {if ((c%1)*10>=5) System.out.print((int)c+" "); else System.out.print((int)c-1+" ");}}
     }
 }
