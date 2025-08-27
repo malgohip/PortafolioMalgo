@@ -8,3 +8,14 @@ Omega (Ω): límite inferior (mejor caso)
 Theta (Θ): crecimiento exacto (promedio)
 Para ordenar el bubble sort esta bien pero hay mejores 
 Uno bueno sería separar por pibotes (Quick sort) Ejercicio para hacer UwU
+Complejidad para el O:
+Horrible O(n!), O(2^n), O(n^2)
+Malo O(n log n)
+Maso O(n)
+Bueno O(log n), O(1)
+Big O 
+T(n) Costo exacto del algoritmo
+g(n) estimación simplificada que lo acota por arriba
+c = constante mayor a 0
+g(n)*c >= T(n)
+Tengo el alma enamorada no más de pensar corazón
