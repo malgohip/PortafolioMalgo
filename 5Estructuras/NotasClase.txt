@@ -1,0 +1,10 @@
+Clase 02 27/08
+
+Vamos a valorar la eficiencia pero que es la eficiencia?
+Es diferente la eficiencia del algoritmo que la del equipo, aqui nos importa la del algoritmo
+NOTACIÓN ASINTOTICA:
+Big-O (O): limite superior (peor caso)
+Omega (Ω): límite inferior (mejor caso)
+Theta (Θ): crecimiento exacto (promedio)
+Para ordenar el bubble sort esta bien pero hay mejores 
+Uno bueno sería separar por pibotes (Quick sort) Ejercicio para hacer UwU
