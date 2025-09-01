@@ -19,3 +19,9 @@ g(n) estimación simplificada que lo acota por arriba
 c = constante mayor a 0
 g(n)*c >= T(n)
 Tengo el alma enamorada no más de pensar corazón
+
+Clase 03 01/09
+
+Yeiiii, empezamos a programar, esta viendo 
+Estamos viendo complejidad de cosas con arrays el O de la mayoría es n 
+Listas enlazadas, god
