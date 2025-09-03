@@ -18,7 +18,8 @@ public class N11SumofDigits{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in); int n = sc.nextInt();
         for (int i=0;i<n;i++){int a=sc.nextInt(), b=sc.nextInt(), m=a*b; m+=sc.nextInt(); System.out.print(sumaDigitos(m)+" ");}
-        }
+        sc.close();    
+    }
 
     static int sumaDigitos(int n){String Sn=""+n; int a=0; for (int i=0; i<Sn.length();i++){char c=Sn.charAt(i); a+=Integer.valueOf(""+c);} return a;}
 }
