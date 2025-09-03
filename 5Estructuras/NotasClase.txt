@@ -25,3 +25,7 @@ Clase 03 01/09
 Yeiiii, empezamos a programar, esta viendo 
 Estamos viendo complejidad de cosas con arrays el O de la mayoría es n 
 Listas enlazadas, god
+
+Clase 04 03/09
+
+Taller, wuuu
