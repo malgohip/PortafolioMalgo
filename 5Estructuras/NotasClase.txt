@@ -29,3 +29,9 @@ Listas enlazadas, god
 Clase 04 03/09
 
 Taller, wuuu
+
+Clase 07 15/09
+
+Despues de 2 clases de taller y de una disosiación horrible, hemos vuelto shavales
+Estamos revisando el ejercicio 1 de la clase pasada, las listas doblemente enlazadas 
+Seguiré con codeabbey hasta que hagan algo relevante.

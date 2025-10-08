@@ -10,5 +10,6 @@ public class N1SumApB{
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt(), b = sc.nextInt();
         System.out.println(a+b);
+        sc.close();
     }
 }

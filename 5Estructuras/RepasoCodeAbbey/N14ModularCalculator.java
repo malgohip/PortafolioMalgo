@@ -7,10 +7,17 @@ We have a kind of long arithmetic calculation here, and we are asked about the r
 
 import java.util.*; import java.io.*;
 
-public class N13WeightedSumofDigits{
+public class N14ModularCalculator{
     public static void main(String[] args){
-        Scanner sc = new Scanner(System.in); int n = sc.nextInt();
-        while (sc.next() != "%") {String s = sc.next(); }
-        sc.close();    
+        Scanner sc = new Scanner(System.in); double n = (double) sc.nextInt(); sc.nextLine(); double r=0;
+        while (sc.hasNext()) {
+            String s = sc.nextLine(); String[] lin = s.split(" ");
+            if (lin[0].equals("+")) n+=(Integer.valueOf(lin[1]));
+            else if (lin[0].equals("*")) n*=(Integer.valueOf(lin[1]));
+            else r = n%(Integer.valueOf(lin[1]));
+            System.out.print("Prueba: "+n+" ");
+        }
+        System.out.println((int) r);
+        sc.close();
     }
 }
