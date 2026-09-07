@@ -1,0 +1,52 @@
+Clase 1 (31/08/2026)
+
+hzaratec@unal.edu.co
+uqbar (semillero cyberseguridad)
+Que es lo más basico en un sistema operativo?
+Hardware
+    CPU/GPU/NPU/TPU
+    Almacenamiento
+        Volatil RAM
+        Presistente DUA
+    I/O 
+    Red 
+    Sensores
+Firmware
+Software
+    Divers
+    Kernel
+        Sistema Operativo
+            Administrar HW y SW
+            ejecutar programas
+            ocultar detalles
+
+Lenguajes de programación
+    C 
+    C++
+    C#
+    Net
+    Rust
+    Go
+    Python
+Desarrollo
+    Framework
+Virtuarización
+    Hipervisor
+    Computador Nube
+        Virtual Machine
+        Contenedor 
+        Orquestación
+            Kubernetes
+            Openshift
+            Marathon
+
+Devops
+    MCops (machine learning)
+    Dataops
+    Netdevops
+    Deyselops
+    Gitops
+
+C cuantico
+C analogo
+C Tradicional 

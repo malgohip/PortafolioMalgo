@@ -11,7 +11,7 @@ public class N29Java2DArray{
    public static void main(String[] args) throws IOException{
       Scanner sc = new Scanner(new File("N29.txt")); int[][] matriz = new int[6][6];
       for (int i=0; i<6; i++) for (int j=0; j<6; j++) matriz[i][j]=sc.nextInt(); sc.close(); int max=-64;
-      for (int i=0; i<4; i++)for (int j=0; j<4; j++){relojDeArena relojito = new relojDeArena(matriz[i][j], matriz[i][j+1], matriz[i][j+2], matriz[i+1][j+1], matriz[i+2][j], matriz[i+2][j+1], matriz[i+2][j+2]); if (max<relojito.sum()) max=relojito.sum();}
+      for (int i=0; i<4; i++) for (int j=0; j<4; j++){relojDeArena relojito = new relojDeArena(matriz[i][j], matriz[i][j+1], matriz[i][j+2], matriz[i+1][j+1], matriz[i+2][j], matriz[i+2][j+1], matriz[i+2][j+2]); if (max<relojito.sum()) max=relojito.sum();}
       System.out.println(max);
    }
 }
